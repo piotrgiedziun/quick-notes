@@ -9,7 +9,7 @@
     "@reach/dialog": "0.2.9",
     "@reach/tabs": "0.1.6",
     "@rebass/emotion": "3.2.0",
-    "@rebass/forms": "4.0.5",
+    "@rebass/forms": "4.0.6",
     "aws-amplify": "1.1.36",
     "aws-amplify-react": "2.3.12",
     "formik": "1.5.8",
