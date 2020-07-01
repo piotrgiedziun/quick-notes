@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aws-amplify/predictions": "1.0.3",
+    "@aws-amplify/predictions": "3.1.17",
     "@emotion/core": "10.0.16",
     "@emotion/styled": "10.0.15",
     "@reach/dialog": "0.2.9",
