@@ -6,7 +6,7 @@
     "@aws-amplify/predictions": "1.0.3",
     "@emotion/core": "10.0.16",
     "@emotion/styled": "10.0.15",
-    "@reach/dialog": "0.2.9",
+    "@reach/dialog": "0.10.5",
     "@reach/tabs": "0.1.6",
     "@rebass/emotion": "3.2.0",
     "@rebass/forms": "4.0.5",
