@@ -7,7 +7,7 @@
     "@emotion/core": "10.0.16",
     "@emotion/styled": "10.0.15",
     "@reach/dialog": "0.2.9",
-    "@reach/tabs": "0.1.6",
+    "@reach/tabs": "0.10.5",
     "@rebass/emotion": "3.2.0",
     "@rebass/forms": "4.0.5",
     "aws-amplify": "1.1.36",
